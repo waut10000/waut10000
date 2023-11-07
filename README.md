@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## I'm Waut, IoT student in Antwerp from Belgium 🇧🇪
+
+- 👨🏻‍🎓 Currently student IoT at Karel de Grote Hogeschool
+- ..
+- ..
+- ..
+
 <!--
 **waut10000/waut10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
