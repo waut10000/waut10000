@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm Waut, IoT student in Antwerp from Belgium 🇧🇪
+### I'm Waut, IoT student in Antwerp from Belgium 🇧🇪
 
 - 👨🏻‍🎓 Currently student IoT at Karel de Grote Hogeschool
 - ..
