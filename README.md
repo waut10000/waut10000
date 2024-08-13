@@ -38,7 +38,7 @@ So this means not all of the bins have to be emtied every week.
 
 I’m always open to collaborating on interesting projects or discussing the latest advancements in IoT. Feel free to reach out:
 
-- **LinkedIn**: [Waut Schepens](www.linkedin.com/in/waut-schepens-8801a7294)
+- **LinkedIn**: [www.linkedin.com/in/waut-schepens-8801a7294](#)
 
 ## Contributions & Open Source
 
