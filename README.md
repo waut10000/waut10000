@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### I'm Waut, IoT student in Antwerp from Belgium 🇧🇪
+### I'm Waut, IoT specialist in Antwerp from Belgium 🇧🇪
 
-- 👨🏻‍🎓 Currently student Internet of Things at Karel de Grote Hogeschool
+- 👨🏻‍🎓 Graduated Internet of Things at Karel de Grote Hogeschool
 - 💻 Skills : Python, SQL, C++, C#
 - 🍎 Apple guy
 - ..
